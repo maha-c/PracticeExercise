@@ -1,4 +1,4 @@
-package CalculatorApp;
+package JavaExercises;
 
 import java.util.Scanner;
 
